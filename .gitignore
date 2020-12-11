@@ -1,0 +1,6 @@
+# Ignores your local properties file for security.
+/src/main/resources/application.properties
+/target/classes/application.properties
+
+# Ignores compiled source
+*.class
